@@ -8,6 +8,9 @@
 #env
 /src/config.ts
 
+#images
+/public/images
+
 # testing
 /coverage
 
